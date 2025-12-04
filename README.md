@@ -86,6 +86,10 @@ Basta colocar os arquivos em uma pasta `/imagens` no repositório e substituir o
 
 ![SRTM](./assets/srtm.png)
 
+### **Cratera meteorito colorida**
+
+![SRTM](./assets/cratera.png)
+
 ### **Declividade (Slope)**
 
 ![Declividade](./assets/declividade.png)
